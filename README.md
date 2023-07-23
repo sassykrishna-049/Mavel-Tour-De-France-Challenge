@@ -6,3 +6,7 @@ The Tour de France is an iconic annual cycling race held in France. Spanning ove
 I will be playing the role of Data Visualization Expert at the **Amaury Sport Organisation**, the company that organizes the annual **Tour de France** cycling race.
 
 While the Tour de France is one of the most watched live sporting events in the world, most viewership comes from European countries. My goal is to help increase the race's popularity around the world by creating an infographic-style visual to educate new viewers, highlight the magnitude of the event, and build anticipation for this year's race.
+
+### Steps taken:
+1. Merged the csv files into one excel file using Python pandas.
+2. 
